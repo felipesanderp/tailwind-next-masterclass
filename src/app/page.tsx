@@ -4,7 +4,8 @@ import * as Input from '@/components/input'
 import { Bold, Italic, Link, List, ListOrdered, Mail } from 'lucide-react'
 import * as FileInput from '@/components/Form/FileInput'
 import { Select } from '@/components/Form/Select'
-import { Textarea } from '@/components/Form/Textarea'
+import { SelectItem } from '@/components/Form/Select/SelectItem'
+import { Textarea } from '@/components/Form/TextArea'
 
 export default function Home() {
   return (
